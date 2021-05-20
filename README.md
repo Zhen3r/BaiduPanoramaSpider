@@ -2,6 +2,8 @@
 
 ![GitHub](https://img.shields.io/github/license/Zhen3r/BaiduPanoramaSpider)
 
+百度全景图爬虫 Baidu Panorama Spider
+
 **免责声明：本项目旨在学习python的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。**
 
 Disclaimer: This project is intended to learn Python and should not be used for commercial or personal purposes. Any improper use shall be borne by the individual.
