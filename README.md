@@ -30,8 +30,8 @@ baiduImgDownloader(pointsCsvPath, toFolderPath, baiduApiKey, zoom=3)
 **zoom**: 
 
 |zoom| 1       | 2        | 3         | 4         |
-|-| ------- | -------- | --------- | --------- |
-|img| 512*256 | 1024*512 | 2048*1024 | 4096*2048 |
+| -  | ------- | -------- | --------- | --------- |
+|img | 512*256 | 1024*512 | 2048*1024 | 4096*2048 |
 
 
 
@@ -48,5 +48,11 @@ requests
 ## Technical Route
 
 wgs84 points => bd09mc points => getImageID => getImage => mergeImage => saveImage
+
+## helping this project
+
+现在，网络上的方法还无法实现高精度的wgs84 => bd09mc，只有借助baiduApi，不是特别爽。
+
+希望得到大噶的帮助！
 
 
