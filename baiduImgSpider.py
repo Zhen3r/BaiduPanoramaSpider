@@ -8,7 +8,7 @@ import os
 
 
 def getImageID(x,y):
-	# input: x, y (bd09mc)
+	# input: x, y (bd09mc) 
 	# output: sid (imgID)
 	url = f"https://mapsv0.bdimg.com/?qt=qsdata&x={x}&y={y}"
 	h = requests.get(url).text
