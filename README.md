@@ -51,10 +51,10 @@ requests
 
 wgs84 points => bd09mc points => getImageID => getImage => mergeImage => saveImage
 
-## helping this project
+## Problems
 
-现在，网络上的方法还无法实现高精度的wgs84 => bd09mc，只有借助baiduApi，不是特别爽。
+网络上找到的方法还无法实现高精度的wgs84 => bd09mc，只有借助baiduApi，不是特别爽。
 
-希望得到大噶的帮助！
+如果有知道解决方法的大佬请赐教！
 
 
