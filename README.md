@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Zhen3r/BaiduPanoramaSpider)
 
-百度全景图爬虫 Baidu Panorama Spider
+百度全景/街景图爬虫 Baidu Panorama Spider / Baidu Street View spider / BSV
 
 **免责声明：本项目旨在学习python的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。**
 
