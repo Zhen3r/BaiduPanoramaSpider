@@ -36,7 +36,7 @@ def getImageBytesList(sid,z=2):
 def bytes2Img(imgByte):
 	# input: imgByte
 	# output: PIL.Image
-	return Image.open(BytesIO(x))
+	return Image.open(BytesIO(imgByte))
 
 def bytesList2ImgList(x):
 	# input: List of imgBytes
