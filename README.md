@@ -1,6 +1,7 @@
 # BaiduPanoramaSpider
 
-![GitHub](https://img.shields.io/github/license/Zhen3r/BaiduPanoramaSpider)
+![GitHub](https://img.shields.io/badge/license-MIT-green)
+![GitHub](https://img.shields.io/badge/python-3.6-blue)
 
 百度全景/街景图爬虫 Baidu Panorama Spider / Baidu Street View spider / BSV
 
