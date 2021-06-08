@@ -5,7 +5,7 @@
 
 百度全景/街景图爬虫 Baidu Panorama Spider / Baidu Street View spider / BSV
 
-**免责声明：本项目旨在学习python的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。**
+**免责声明：本项目旨在学习python的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。** 如果有帮助到你，点个星星呗嘻嘻。
 
 Disclaimer: This project is intended to learn Python and should not be used for commercial or personal purposes. Any improper use shall be borne by the individual.
 
