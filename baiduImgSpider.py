@@ -10,7 +10,7 @@ import os
 def getImageID(x,y):
 	# input: x, y (bd09mc) 
 	# output: sid (imgID)
-	url = f"https://mapsv0.bdimg.com/?qt=qsdata&x={x}&y={y}"
+	url = f"https://mapsv1.bdimg.com/?qt=qsdata&x={x}&y={y}"
 	h = requests.get(url).text
 	return json.loads(h)
 
@@ -28,7 +28,7 @@ def getImageBytesList(sid,z=2):
 	imgBytes=[]
 	for x in range(xrange):
 		for y in range(yrange):
-			url = f"https://mapsv0.bdimg.com/?qt=pdata&sid={sid}&pos={x}_{y}&z={z}"
+			url = f"https://mapsv1.bdimg.com/?qt=pdata&sid={sid}&pos={x}_{y}&z={z}&from=PC"
 			b = requests.get(url).content
 			imgBytes.append(b)
 	return imgBytes
